@@ -1,0 +1,50 @@
+[
+    {
+        "img":"https://lirp.cdn-website.com/7cc637d2/dms3rep/multi/opt/teeth-before-and-after-960w.jpg",
+      "name": "Dental Veneer",
+      "key": "aaaaa",
+      "id": 1,
+      "price": 1000,
+      "description": "Think of the Hollywood celebrities who have dazzling smiles. How did they get those perfect, straight white teeth? Wouldn’t you like to have the confidence that goes with such a perfect smile?"
+    },
+    {
+        "img": "https://cuspdentals.com/wp-content/uploads/2021/03/Dental-smile-design-300x182.jpg",
+      "name": "Digital Smile Design",
+      "key": "aaaab",
+      "id": 2,
+      "price": 11000,
+      "description": "We feel very glad as cosmetic dentist when we discover the amazing change of our patients undergo a complete Smile Design. Their entire mouths are restored in just a visit or two, all while they’re relaxing or even sleeping. There’s just no way to outperform that experience."
+    },
+    {
+        "img":"https://www.kayedentistry.com/assets/uploads/images/3shape-trios.jpg",
+      "name": "3D Scanner",
+      "key": "aaaac",
+      "id": 3,
+      "price": 2000,
+      "description": "An intra-oral scanner is a device that is used to capture a direct digital 3D image of your teeth & gum. The scanner projects a sophisticated light source onto the area to be scanned. The images are captured by imaging sensors and are processed precisely by software, which then produces a 3D model."
+    },
+    {
+        "img":"https://www.reopelleorthodontics.com/wp-content/uploads/2020/11/RO_Blog-Post_Braces-and-Wisdom-Teeth-1536x1020.jpg",
+      "name": "DentalBraces",
+      "key": "aaaad",
+      "id": 4,
+      "price": 4000,
+      "description": "If your teeth aren’t perfectly aligned, you may experience discomfort or pain when eating, chewing, speaking, and smiling. The improper bite caused by this irregularity is called malocclusion. This improper teeth position is the reason both adults and teenagers need Braces treatment."
+    },
+    {
+        "img": "https://dynastytowerdental.ca/wp-content/uploads/2020/08/Laser-Gum-Conturing.jpg",
+      "name": "Gum Contouring",
+      "key": "aaaae",
+      "id": 5,
+      "price": 5000,
+      "description": "Excess gum tissue, referred to as “gummy smile”. Excess gum can shorten the appearance of your teeth and impact the proportion of your smile. A Gum Lift is a cosmetic dentistry technique used by Dr. Shihabur Rahman to reshape the gums, lengthen the appearance of the teeth. "
+    },
+    {
+        "img":"https://www.laurichdentistry.com/wp-content/uploads/2020/01/broken-tooth-crown-300x200.jpg",
+      "name": "Dental Crown",
+      "key": "aaaah",
+      "id": 6,
+      "price": 7000,
+      "description": "We always opt for ZIRCONIA (CAD CAM) all-ceramic, E-MAX (CAD CAM) all-ceramic, PFM crowns when they’re needed. These materials match the natural colour of your teeth far better than other types of crowns, which are made of metal and draw undesired attention to themselves."
+    }
+  ]
